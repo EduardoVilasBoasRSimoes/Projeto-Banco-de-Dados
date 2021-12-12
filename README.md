@@ -3,6 +3,6 @@
  
  Integrantes:
  Eduardo Vilas Boas Ribas Simões <br/>
- Erika Oliveira Quinto
- Pedro Enzo da Silva Batista
- Renan Barroso Sá
+ Erika Oliveira Quinto <br/>
+ Pedro Enzo da Silva Batista <br/>
+ Renan Barroso Sá 
